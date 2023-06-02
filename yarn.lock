@@ -938,7 +938,14 @@
   dependencies:
     "@upstash/core-analytics" "^0.0.6"
 
-"@upstash/redis@^1.19.3", "@upstash/redis@^1.20.6":
+"@upstash/redis@1.20.1":
+  version "1.20.1"
+  resolved "https://registry.yarnpkg.com/@upstash/redis/-/redis-1.20.1.tgz#44d7d429661fb59eba6e4784671a0b7fc33eb5ca"
+  integrity sha512-mYwV8uvQROJnq5aOxmQH3KDa0E8+DRdU0zJ/VGQV84HrhQQNy0IsLFFTo97WEhZAlHcJnVbrbwqUK9disWqx/w==
+  dependencies:
+    isomorphic-fetch "^3.0.0"
+
+"@upstash/redis@^1.19.3":
   version "1.20.6"
   resolved "https://registry.yarnpkg.com/@upstash/redis/-/redis-1.20.6.tgz#3d5773f2b463b19f612b6373fe516e6200a1762d"
   integrity sha512-q1izaYEUsq/WiXNOjf4oOjFZe8fIeBSZN8d5cEyOD4nem+zxc4jccieorQQrNlEahKPE1ZYLzVEkMODRUfch2g==
